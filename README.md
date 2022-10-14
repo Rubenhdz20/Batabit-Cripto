@@ -1,4 +1,4 @@
-# BATABIT
+# BATABIT 🟡🟠
 
 ## The next generation in the exchange of cryptocurrency
 
