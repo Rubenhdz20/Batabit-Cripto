@@ -13,4 +13,4 @@ Batabit helps you navigate between different prices and tendencies
 
 ## Final View:
 
-https://rubenhdz20.github.io/
+https://rubenhdz20.github.io/Batabit-Cripto/
